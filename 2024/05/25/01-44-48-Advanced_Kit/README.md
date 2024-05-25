@@ -8,7 +8,7 @@
  HTML for embedding in any web page:
  ```html
 <figure style="width: 87%; margin: 5%">
-  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous load-camera='true' label='prev step'></vzome-viewer-previous><vzome-viewer-next load-camera='true' label='next step'></vzome-viewer-next></div></div>
+  <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous load-camera='true' label='Prior View'></vzome-viewer-previous><vzome-viewer-next load-camera='true' label='Next View'></vzome-viewer-next></div></div>
   <vzome-viewer style="width: 100%; height: 60vh" indexed='true'
        src="https://KnewGeometry.github.io/vzome-sharing/2024/05/25/01-44-48-Advanced_Kit/Advanced_Kit.vZome" >
     <img  style="width: 100%"
