@@ -1,8 +1,8 @@
 ---
 title: ''
 subtitle: IntroMicro_Kit_no_yellow2 unhidden
-share-title: IntroMicro_Kit_no_yellow2 unhidden
-share-description: An interactive 3D view, shared from vZome
+share-title: IntroMicro_Kit
+share-description: An interactive 3D view of CosmicMind™ IntroMicro Kit
 image: https://KnewGeometry.github.io/vzome-sharing/2024/06/16/17-16-13-IntroMicro_Kit_no_yellow2-unhidden/IntroMicro_Kit_no_yellow2-unhidden.png
 layout: design
 ---
